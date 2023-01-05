@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AjmalDevala</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/112807619/210769639-591b314f-0e01-4c9c-944c-5ce82e3c7324.png)">
+<img align="right" alt="Coding" width="400" src="[![image](https://user-images.githubusercontent.com/112807619/210769639-591b314f-0e01-4c9c-944c-5ce82e3c7324.png)](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)">
 - 🌱 I’m currently learning **react | firebase**
 
 - 📫 How to reach me **ajmaldevala@gmail.com**
