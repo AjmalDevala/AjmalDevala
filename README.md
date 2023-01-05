@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm AjmalDevala</h1>
-
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmaldevala&label=Profile%20views&color=0e75b6&style=flat" alt="ajmaldevala" /> </p> -->
