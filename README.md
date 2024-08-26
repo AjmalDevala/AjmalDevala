@@ -1,7 +1,7 @@
 <h2 align="center">A passionate full stack developer from India </h2>
 <img align="right" alt="Coding++++" width="400" src="https:thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="500">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmaldevala&label=Profile%20views&color=0e75b6&style=flat" alt="ajmaldevala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmaldevala&label=liveProfile%20views&color=0e75b6&style=flat" alt="ajmaldevala" /> </p>
 <!-- <br><br> -->
 <!-- - Gradient Line
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%">
