@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ajmal-devala-571820156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmal devala" height="30" width="40" /></a>
 <a href="https://instagram.com/ajmal_pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajmal_pq" height="30" width="40" /></a>
-<a href="https://twitter.com/ajmaldevala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajmaldevala" height="30" width="40" /></a>
+<a href="https://x.com/ajmaldevala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajmaldevala" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/user:19319910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19319910" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100005282988603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajmaldevala " height="30" width="40" /></a>
 </p>
