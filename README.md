@@ -36,4 +36,5 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/ajmaldevala"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ajmaldevala" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ajmaldevala"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ajmaldevala" /></a><a href="https://ko-fi.com/ajmaldevala"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ajmaldevala" /></a></p><br><br>
+
