@@ -1,6 +1,6 @@
-<h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif; color: #3a88ff;">
-  🔥 Enthusiastic Full Stack Developer | Crafting Digital Experiences from India 🌏
-</h1>
+# 👋 Hi there! I'm Ajmal 🚀
+
+## 💻 Full Stack Developer | 🌐 Digital Experience Architect | 🇮🇳 India
 
 <img alt="ajmaldevala" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- <img align="right" alt="Coding++++" width="400" src="https:thumbs.gfycat.com/EvilNextDevilfish-small.gif"/> -->
