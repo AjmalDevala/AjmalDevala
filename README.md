@@ -68,10 +68,16 @@
 | ![Ajmal Devala GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajmaldevala&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Ajmal Devala GitHub Streak](https://streak-stats.demolab.com?user=ajmaldevala&theme=tokyonight&border_radius=8) |
 | -- | -- |
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AjmalDevala" alt="AjmalDevala's GitHub Trophies" />
+  </a>
+</p>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <h3 align="left">Support My Work 💖</h3>
 <p align="left">
